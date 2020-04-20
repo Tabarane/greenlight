@@ -243,7 +243,7 @@ pl_PL:
           info: Nowy użytkownik zapisał się do korzystania z Greenlight.
           more-info: "Aby umożliwić temu użytkownikowi dostęp do Greenlight, musisz zatwierdzić jego konto w ustawieniach organizacji."
           admins_link: Odwiedź stronę organizacji
-          subject: Nowy użytkownik Greenlight (Zapis)
+          subject: Nowy użytkownik NCCIQHUB(Zapis)
           username: "Zapisał się nowy użytkownik o nazwie %{name} i adresie email %{email}."
         subject: Konto zatwierdzone
         username: "Twoja nazwa użytkownika to %{email}."
@@ -259,7 +259,7 @@ pl_PL:
         signup:
           info: "Użytkownik, który został zaproszony, zapisał się do korzystania z Greenlight."
           admins_link: Odwiedź stronę organizacji
-          subject: Nowy użytkownik Greenlight (Zapis)
+          subject: Nowy użytkownik NCCIQHUB(Zapis)
           username: "Zapisał się nowy użytkownik o nazwie %{name} i adresie email %{email}."
         subject: Zaproszenie do korzystania z systemu wideokonferencji.
         username: "Twoja nazwa użytkownika to %{email}."

@@ -82,7 +82,7 @@ hu_HU:
       shared_access:
         info: "Ha kikapcsolod, akkor a gombot eltávolítod a Szobabeállítások legördülő menüből, megakadályozva ezzel, hogy a felhasználók megosszák a szobákat"
         title: A felhasználók megoszthatnak szobákat
-      subtitle: Greenlight személy szabása
+      subtitle: NCCIQHUBszemély szabása
       title: Weboldal beállításai
     flash:
       approved: A felhasználót sikeresen jóváhagytad.
@@ -195,7 +195,7 @@ hu_HU:
       notice: >
         Greenlight adatbázis-migrációs hiba. <br>Ellenőrizd, frissítetted-e a Greenlight 2.0-ás verziójára.
       upgrade: "Mutasd, hogyan tudok frissíteni a 2.0-ás verzióra!"
-      version: "A Greenlight új verziója jelent meg, de az adatbázisod nem kompatibilis."
+      version: "A NCCIQHUBúj verziója jelent meg, de az adatbázisod nem kompatibilis."
     messages:
       blank: nem lehet üres
       too_short: túl rövid
@@ -206,7 +206,7 @@ hu_HU:
       inclusion: nincs benne ebben a listában
     no_provider:
       message: "A webhely, amelyhez megpróbálsz hozzáférni, nincs bekapcsolva"
-      help: "Kérjük, keresd a rendszer üzemeltetőjét a Greenlight telepítéséhez"
+      help: "Kérjük, keresd a rendszer üzemeltetőjét a NCCIQHUBtelepítéséhez"
     not_found:
       message: Sajnáljuk! A keresett oldal nem létezik.
       help: "Lehetséges, hogy már eltávolították?"
@@ -260,9 +260,9 @@ hu_HU:
   landing:
     about: "%{href}egy egyszerű front-end a nyílt forráskódú BigBlueButton webkonferencia-rendszerhez. Saját magadnak szobákat hozhatsz létre, illetve mások csatlakozhatnak egy rövid link használatával."
     welcome: A BigBlueButton üdvözöl.
-    video: Nézd meg az ismertetőnket a  Greenlight használatáról
+    video: Nézd meg az ismertetőnket a  NCCIQHUBhasználatáról
     upgrade: "Mutasd, hogyan tudok frissíteni a 2.0-ás verzióra!"
-    version: "A Greenlight új verziója jelent meg, de az adatbázisod nem kompatibilis."
+    version: "A NCCIQHUBúj verziója jelent meg, de az adatbázisod nem kompatibilis."
   language_default: Alapértelmezett (a böngésző nyelve)
   ldap_error: "Nem sikerült csatlakozni az LDAP szerverhez. Kérjük, ellenőrizd a beállításokat a környezeti, env fájlban, illetve azt, hogy a szerver működik és elérhető."
   login: Bejelentkezés
@@ -277,7 +277,7 @@ hu_HU:
           info: "Egy új felhasználó regisztrált, hogy használhassa a Greenlight-ot."
           more-info: "Ahhoz, hogy ez a felhasználó elérhesse a Greenlight-ot, a szervezheti beállításokban hozzá kell rendelned."
           admins_link: A Szervezeti oldal megtekintése
-          subject: Új Greenlight felhasználó regisztrált
+          subject: Új NCCIQHUBfelhasználó regisztrált
           username: "A felhasználó %{name} felhasználónévvel, %{email} e-mail címmel regisztrált."
         subject: Jóváhagyott fiók
         username: "A felhasználóneved %{email}."
@@ -293,7 +293,7 @@ hu_HU:
         signup:
           info: "Egy meghívott felhasználó regisztrált, hogy használhassa a Greenlight-ot."
           admins_link: A Szervezeti oldal megtekintése
-          subject: Új Greenlight felhasználó regisztrált
+          subject: Új NCCIQHUBfelhasználó regisztrált
           username: "A felhasználó %{name} felhasználónévvel, %{email} e-mail címmel regisztrált."
         subject: Meghívás a BigBlueButton használatára
         username: "A felhasználóneved %{email}."

@@ -36,7 +36,7 @@ fr:
         enabled: Activé
         info: Autoriser uniquement les utilisateurs authentifiés à rejoindre une salle
         title: Authentification requise pour rejoindre les salles
-        user-info: Vous devez être connecté à Greenlight pour rejoindre cette salle
+        user-info: Vous devez être connecté à NCCIQHUBpour rejoindre cette salle
       branding:
         change: Changer l'image
         info: Change l'image qui apparaît en haut à gauche

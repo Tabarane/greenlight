@@ -230,7 +230,7 @@ sk_SK:
   landing:
     about: "%{href} je jednoduchá nadstavba pre Váš open-source webový konferenčný server BigBlueButton. Môžete vytvárať vlastné virtuálne miestnosti pre organizovanie konferencií, alebo sa môžete pripojiť ku konferenciám ostatných užívateľov jednoduchým a pohodlným kliknutím na prijatý odkaz."
     welcome: Vitajte na servri BigBlueButton.
-    video: "Pozrite si videonávod, ako Greenlight používať"
+    video: "Pozrite si videonávod, ako NCCIQHUBpoužívať"
     upgrade: "Ukážte mi, ako upgradovať na ver. 2.0!"
     version: "Vydali sme novú verziu Greenlight, ale Vaša databáza nie je kompatibilná."
   language_default: Predvolený (jazyk prehliadača)
@@ -244,7 +244,7 @@ sk_SK:
         signin: Pre prístup do Vašich miestností kliknite na tlačítko nižšie a prihláste sa.
         signin_link: Prihlásenie
         signup:
-          info: Nový Greenlight užívateľ bol zaregistrovaný.
+          info: Nový NCCIQHUBužívateľ bol zaregistrovaný.
           more-info: Pre aktiváciu prístupu užívateľa do systému je nutné schváliť jeho účet administrátorom v nastaveniach organizácie.
           admins_link: Navštívte stránku Organizácia
           subject: Registrácia nového užívateľa Greenlight
@@ -261,7 +261,7 @@ sk_SK:
         signup_info: "Pre registráciu Vaším emailom, kliknite na tlačítko nižšie a postupujte podľa predpísaných krokov."
         signup_link: Registrácia
         signup:
-          info: Pozvaný Greenlight užívateľ sa zaregistroval.
+          info: Pozvaný NCCIQHUBužívateľ sa zaregistroval.
           admins_link: Navštívte stránku Organizácia
           subject: Registrácia nového užívateľa Greenlight
           username: "Nový užívateľ sa zaregistroval s menom %{name} a emailom %{email}."

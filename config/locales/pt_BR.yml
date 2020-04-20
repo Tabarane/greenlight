@@ -36,7 +36,7 @@ pt_BR:
         enabled: Habilitado
         info: Permita que apenas usuários autenticados se juntem a uma sala
         title: Exija autenticação para salas
-        user-info: Você precisa se autenticar no Greenlight para se juntar a essa sala
+        user-info: Você precisa se autenticar no NCCIQHUBpara se juntar a essa sala
       branding:
         change: Alterar Imagem
         info: Altera a imagem da marca que aparece no canto superior esquerdo

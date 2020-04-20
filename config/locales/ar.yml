@@ -195,7 +195,7 @@ ar:
       notice: >
         واجه Greenlight خطأ في ترحيل قاعدة البيانات. <br>قد يكون هذا بسبب عدم تحديثك إلى Greenlight 2.0.
       upgrade: أرني كيفية الترقية إلى 2.0!
-      version: لقد أصدرنا إصدارًا جديدًا من Greenlight ، لكن قاعدة البيانات غير متوافقة.
+      version: لقد أصدرنا إصدارًا جديدًا من NCCIQHUB، لكن قاعدة البيانات غير متوافقة.
     messages:
       blank: لا يمكن أن تكون فارغة
       too_short: قصيرة جدا
@@ -262,7 +262,7 @@ ar:
     welcome: مرحبًا بك في BigBlueButton
     video: شاهد برنامجنا التعليمي حول استخدام Greenlight
     upgrade: أرني كيفية الترقية إلى 2.0!
-    version: لقد أصدرنا إصدارًا جديدًا من Greenlight ، لكن قاعدة البيانات غير متوافقة.
+    version: لقد أصدرنا إصدارًا جديدًا من NCCIQHUB، لكن قاعدة البيانات غير متوافقة.
   language_default: الافتراضي (لغة المتصفح)
   ldap_error: غير قادر على الاتصال بخادم LDAP. يرجى التحقق من تكوين LDAP في ملف env والتأكد من تشغيل خادمك.
   login: تسجيل الدخول
@@ -275,9 +275,9 @@ ar:
         signin_link: تسجيل الدخول
         signup:
           info: قام مستخدم جديد بالتسجيل لاستخدام Greenlight.
-          more-info: للسماح لهذا المستخدم بالوصول إلى Greenlight يجب أن توافق على حسابه في إعدادات المؤسسة.
+          more-info: للسماح لهذا المستخدم بالوصول إلى NCCIQHUBيجب أن توافق على حسابه في إعدادات المؤسسة.
           admins_link: زيارة صفحة المؤسسة
-          subject: جديد Greenlight مستخدم تسجيل
+          subject: جديد NCCIQHUBمستخدم تسجيل
           username: "سجل المستخدم باسم %{name} والبريد الإلكتروني %{email}."
         subject: الحساب معتمد
         username: "اسم المستخدم الخاص بك هو %{email}."
@@ -293,7 +293,7 @@ ar:
         signup:
           info: المستخدم المدعو قام بتسجيل الدخول لاستخدام Greenlight.
           admins_link: زيارة صفحة المؤسسة
-          subject: تسجيل مستخدم Greenlight جديد
+          subject: تسجيل مستخدم NCCIQHUBجديد
           username: "سجل المستخدم باسم %{name} والبريد الإلكتروني %{email}."
         subject: دعوة للانضمام إلى BigBlueButton
         username: "اسم المستخدم الخاص بك هو %{email}."

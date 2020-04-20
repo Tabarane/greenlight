@@ -276,9 +276,9 @@ tr_TR:
         signin_link: Oturum aç
         signup:
           info: Greenlight'ı kullanmak için yeni bir kullanıcı kayıt oldu.
-          more-info: Kullanıcıların Greenlight a ulaşabilmeleri için organizasyon ayarlarında kullanıcının hesabını onaylamalısınız
+          more-info: Kullanıcıların NCCIQHUBa ulaşabilmeleri için organizasyon ayarlarında kullanıcının hesabını onaylamalısınız
           admins_link: Organizasyon Sayfasını Ziyaret Edin
-          subject: Yeni Greenlight Kullanıcısı Kayıt Ol
+          subject: Yeni NCCIQHUBKullanıcısı Kayıt Ol
           username: "Kullanıcı %{name} ismi ve %{email} e-posta adresi ile oturum açtı"
         subject: Hesap Onaylandı
         username: "Kullanıcı adınız %{email}."
@@ -294,7 +294,7 @@ tr_TR:
         signup:
           info: Davet edilen bir kullanıcı Greenlight'ı kullanmak için kaydoldu.
           admins_link: Organizasyon Sayfasını Ziyaret Edin
-          subject: Yeni Greenlight Kullanıcısı Kayıt Ol
+          subject: Yeni NCCIQHUBKullanıcısı Kayıt Ol
           username: "Kullanıcı %{name} ismi ve %{email} e-posta adresi ile oturum açtı"
         subject: BigBlueButton'a katılma davetiyesi
         username: "Kullanıcı adınız%{email}"

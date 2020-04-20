@@ -196,7 +196,7 @@ es_MX:
       notice: >
         Greenlight encontro un error al migrar la base de datos. <br>Esto puede deberse a que no hás actualizado a Greenlight versión 2.0
       upgrade: Muestrame como actualizar a la verisión 2.0
-      version: Hemos publicado una nueva version de Greenlight pero tu base de datos no es compatible.
+      version: Hemos publicado una nueva version de NCCIQHUBpero tu base de datos no es compatible.
     messages:
       blank: el valor no puede estar vacío
       too_short: es demasiado corta
@@ -263,7 +263,7 @@ es_MX:
     welcome: Bienvenido a <span class="green-grad">Greenlight</span>.
     video: Ve nuestro tutorial de como utilizar Greenlight
     upgrade: Muestrame como actualizar a versión 2.0
-    version: Hemos publicado una nueva version de Greenlight pero tu base de datos no es compatible.
+    version: Hemos publicado una nueva version de NCCIQHUBpero tu base de datos no es compatible.
   language_default: Por omisión (idioma del navegador)
   ldap_error: No se puede conectar al servidor LDAP. Compruebe la configuración de LDAP en el archivo "env" y asegúrate de que tu servidor está ejecutándose.
   login: Ingresar

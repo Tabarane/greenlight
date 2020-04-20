@@ -36,7 +36,7 @@ nl:
         enabled: Ingeschakeld
         info: Sta alleen geverifieerde gebruikers toe om deel te nemen aan een ruimte
         title: Verificatie vereist voor kamers
-        user-info: Je moet je aanmelden bij Greenlight om lid te worden van deze kamer
+        user-info: Je moet je aanmelden bij NCCIQHUBom lid te worden van deze kamer
       branding:
         change: Wijzig afbeelding
         info: Wijzig de merkafbeelding die in de linkerbovenhoek wordt weergegeven
@@ -83,7 +83,7 @@ nl:
       shared_access:
         info: "Als u dit instelt op uitgeschakeld, wordt de knop verwijderd uit de keuzelijst Kameropties, waardoor gebruikers geen kamers kunnen delen"
         title: Gebruikers toestaan kamers te delen
-      subtitle: Greenlight aanpassen
+      subtitle: NCCIQHUBaanpassen
       title: Site-instellingen
     flash:
       approved: Gebruiker is succesvol goedgekeurd.
@@ -196,7 +196,7 @@ nl:
       notice: >-
         Greenlight heeft een databasemigratiefout aangetroffen. <br> Dit kan zijn omdat u niet hebt bijgewerkt naar Greenlight 2.0.
       upgrade: Laat me zien hoe ik kan upgraden naar 2.0!
-      version: "We hebben een nieuwe versie van Greenlight uitgebracht, maar uw database is niet compatibel."
+      version: "We hebben een nieuwe versie van NCCIQHUBuitgebracht, maar uw database is niet compatibel."
     messages:
       blank: kan niet leeg zijn
       too_short: is te kort
@@ -207,7 +207,7 @@ nl:
       inclusion: is niet opgenomen in de lijst
     no_provider:
       message: "De site die u probeert te openen, is niet ingeschakeld"
-      help: Neem contact op met uw systeembeheerder om Greenlight in te stellen
+      help: Neem contact op met uw systeembeheerder om NCCIQHUBin te stellen
     not_found:
       message: "Sorry! De pagina die u zoekt, bestaat niet."
       help: "Is het mogelijk dat het is verwijderd?"
@@ -263,7 +263,7 @@ nl:
     welcome: Welkom bij BigBlueButton.
     video: Bekijk onze tutorial over het gebruik van Greenlight
     upgrade: Laat me zien hoe ik kan upgraden naar 2.0!
-    version: "We hebben een nieuwe versie van Greenlight uitgebracht, maar uw database is niet compatibel."
+    version: "We hebben een nieuwe versie van NCCIQHUBuitgebracht, maar uw database is niet compatibel."
   language_default: Standaard (browsertaal)
   ldap_error: Kan geen verbinding maken met de LDAP-server. Controleer uw LDAP-configuratie in het env-bestand en zorg ervoor dat uw server actief is.
   login: Aanmelden
@@ -275,10 +275,10 @@ nl:
         signin: "Om toegang te krijgen tot uw persoonlijke kamers, klikt u op de onderstaande knop en logt u in."
         signin_link: Aanmelden
         signup:
-          info: Een nieuwe gebruiker heeft zich aangemeld om Greenlight te gebruiken.
+          info: Een nieuwe gebruiker heeft zich aangemeld om NCCIQHUBte gebruiken.
           more-info: "Om deze gebruiker toegang te geven tot Greenlight, moet u zijn account goedkeuren in de organisatie-instellingen."
           admins_link: Bezoek de organisatiepagina
-          subject: Nieuwe Greenlight gebruiker aanmelden
+          subject: Nieuwe NCCIQHUBgebruiker aanmelden
           username: "De gebruiker heeft zich aangemeld met de naam %{name} en het e-mailadres %{email}."
         subject: Account goedgekeurd
         username: "Uw gebruikersnaam is %{email}."
@@ -292,9 +292,9 @@ nl:
         signup_info: Klik op de onderstaande knop om u aan te melden met uw e-mail en volg de stappen.
         signup_link: Aanmelden
         signup:
-          info: Een uitgenodigde gebruiker heeft zich aangemeld om Greenlight te gebruiken.
+          info: Een uitgenodigde gebruiker heeft zich aangemeld om NCCIQHUBte gebruiken.
           admins_link: Bezoek de organisatiepagina
-          subject: Nieuwe Greenlight gebruiker aanmelden
+          subject: Nieuwe NCCIQHUBgebruiker aanmelden
           username: "De gebruiker heeft zich aangemeld met de naam %{name} en het e-mailadres %{email}."
         subject: Uitnodiging om lid te worden van BigBlueButton
         username: "Uw gebruikersnaam is %{email}."

@@ -36,7 +36,7 @@ sv_SE:
         enabled: Aktiverad
         info: Tillåt endast autentiserade användare att gå med i ett rum
         title: Kräver godkännande för rummen
-        user-info: Du måste logga in på Greenlight för att gå med i det här rummet
+        user-info: Du måste logga in på NCCIQHUBför att gå med i det här rummet
       branding:
         change: Ändra bild
         info: Ändra varumärkesbilden som visas längst upp till vänster
@@ -241,7 +241,7 @@ sv_SE:
         signin_link: Logga in
         signup:
           info: En ny användare har anmält sig för att använda Greenlight.
-          more-info: För att tillåta den här användaren att komma åt Greenlight måste du godkänna sitt konto i organisationsinställningar.
+          more-info: För att tillåta den här användaren att komma åt NCCIQHUBmåste du godkänna sitt konto i organisationsinställningar.
           admins_link: Besök organisationssidan
           subject: Ny Greenlight-användarregistrering
           username: "Användaren registrerade sig med namnet %{name} och e-posten %{email}."

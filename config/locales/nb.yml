@@ -36,7 +36,7 @@ nb:
         enabled: Aktivert
         info: Bare tillat at autentiserte brukere kan delta i et rom
         title: Krever autentisering for rom
-        user-info: Du må logge på Greenlight for å delta i dette rommet
+        user-info: Du må logge på NCCIQHUBfor å delta i dette rommet
       branding:
         change: Endre bilde
         info: Endre merkevarebildet som vises øverste i venstre hjørne

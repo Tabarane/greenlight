@@ -276,9 +276,9 @@ da:
         signin_link: Log Ind
         signup:
           info: En ny bruger har oprettet sig på Greenlight.
-          more-info: For at tillade denne bruger at få adgang til Greenlight skal du først godkende deres konto i systemets indstillinger.
+          more-info: For at tillade denne bruger at få adgang til NCCIQHUBskal du først godkende deres konto i systemets indstillinger.
           admins_link: Besøg Indstillings Siden
-          subject: Ny Greenlight Bruger Oprettelse
+          subject: Ny NCCIQHUBBruger Oprettelse
           username: "Brugeren oprettede sig med navn %{name} og email %{email}."
         subject: Kontoen Godkendt
         username: "Dit brugernavn er %{email}."
@@ -294,7 +294,7 @@ da:
         signup:
           info: En bruger der var inviteret har oprette sig på Greenlight.
           admins_link: Besøg Indstillings Siden
-          subject: Ny Greenlight Bruger Oprettelse
+          subject: Ny NCCIQHUBBruger Oprettelse
           username: "Brugeren der oprettede sig med navn %{name} og email %{email}."
         subject: Invitation til at bruge BigBlueButton
         username: "Dit brugernavn er %{email}."
