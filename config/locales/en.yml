@@ -224,7 +224,7 @@ en:
       help: If you believe this is a mistake, please contact your system administrator.
   expired_reset_token: Password reset link has expired!
   features:
-    title: Features
+    title: provides
     rooms: Mass Event Solutions
     recordings: Customized Solutions
     designs: Educational Courses
@@ -260,7 +260,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "is a progressive company with unique strategy, which aims to research and technological development."
+    about: "NCCME is a progressive company with unique strategy, which aims to research and technological development."
     welcome: NCCME Conferencing System.
     video: Watch our videos & latest news @ NCCIQHUB
     upgrade: Show me how to upgrade to 2.0!
